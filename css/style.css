@@ -1,0 +1,43 @@
+.url{
+font-size: 11pt;
+    color: #555555;
+    padding: 10px;
+    border-radius: 3px;
+    outline: none;
+    border: 1px solid #ddd;
+    width: 700px;
+	margin-bottom:12px;
+	margin-top:12px;
+}
+.url2{
+font-size: 11pt;
+    color: #555555;
+    padding: 10px;
+    border-radius: 3px;
+    outline: none;
+    border: 1px solid #ddd;
+    width: 300px;
+	
+}
+.col-md-3{
+	width: 63%;
+}
+.submit{
+float: right;
+    border-radius: 3px;
+    color: #5a575a;
+
+    margin: 0;
+    height: 42px;
+    width: 75px;
+    cursor: pointer;
+    background-color: #fff;
+   
+    border: 2px solid #ececec;
+}
+.llink{
+	width:700px;
+}
+.true{
+	color: green;
+}
